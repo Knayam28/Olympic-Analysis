@@ -9,6 +9,7 @@ The app allows users to visualize medal tallies, analyze country-wise performanc
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7ac7f49-86ac-4605-8950-6f2368cd08e7" />
 
 
+
 Key Features
 The application is divided into four main sections:
 
