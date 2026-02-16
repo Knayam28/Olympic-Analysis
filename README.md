@@ -1,6 +1,7 @@
 # Olympic-Analysis
 
 Live Demo: http://localhost:8501/
+
 This is a data analysis web application built using Python and Streamlit. It provides an interactive interface to explore over 120 years of historical Olympic data (Summer Games).
 
 The app allows users to visualize medal tallies, analyze country-wise performance, and explore athlete demographics (age, height, weight) through dynamic plots and heatmaps.
